@@ -1,0 +1,1 @@
+# rails_nginx_phusion_passenger
