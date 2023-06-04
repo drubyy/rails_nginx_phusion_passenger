@@ -121,6 +121,7 @@ sudo apt-get install libmysqlclient-dev -y
 
 ## Deploy
 At this step, we can deploy code by CD, capistrano, git clone,...to directory /var/www/my_project
+
 For sure config of rails like: database.yml,...etc
 
 ## Restart app Passenger
